@@ -3,6 +3,10 @@ It's an Inventory management website
 
 step
 
+``` bash
+pip install django
+```
+
 ``` python
 python manage.py makemigrations
 ```
